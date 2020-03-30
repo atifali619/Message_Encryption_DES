@@ -2,6 +2,12 @@
 Message Encryption through DES Algorithm implemented in Python.
 GUI by Tkinter.
 
-Screenshot :
+Screenshots :
+
+Interface :
 
 ![](screenshot.png)
+
+Encrypted Text :
+
+![](screenshot2.png)
